@@ -10,4 +10,4 @@ Steps to run
    c. param3: website URL you want to check
    4. param4: destination email address
 
-If you have questions please email me at topher232vt.edu
+If you have questions please email me at topher23@vt.edu
