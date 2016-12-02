@@ -25,5 +25,5 @@ for (( ; ; )); do
     fi
 
     echo "no change. Another Run"
-    sleep $(shuf -i 3-6 -n 1)
+    sleep $(shuf -i 500-900 -n 1)
 done
